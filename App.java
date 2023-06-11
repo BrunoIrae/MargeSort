@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) {
 
-        int array[] = {38, 27, 43, 3, 9, 82, 10};
+        int array[] = {85,99,98,97,96,95,94,93,92,91,90,89, 87,86, 74};
 
         MergeSort sorting = new MergeSort();
 
